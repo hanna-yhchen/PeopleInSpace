@@ -6,3 +6,5 @@ Display names of astronauts currently in space.
 - sorted by last name
 
 This is my solution to the exercise 47, "Who's in Space?", from the book _Exercises for Programmers_ by Brain P. Hogan.
+
+<img src="screenshot.png" width="240">
